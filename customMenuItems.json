@@ -1,0 +1,23 @@
+{
+  "logout": {
+    "id": "logout",
+    "display": "My Custom Logout",
+    "url": "?signout=true",
+    "onclick": ""
+  },
+  "links" : {
+    "camunda": {
+      "id": "camunda",
+      "display": "Camunda",
+      "url": "https://camunda.com/",
+      "onclick": ""
+    },
+    "github": {
+      "id": "github",
+      "display": "Camunda GitHub",
+      "url": "https://github.com/camunda",
+      "onclick": ""
+    }
+  }
+}
+
